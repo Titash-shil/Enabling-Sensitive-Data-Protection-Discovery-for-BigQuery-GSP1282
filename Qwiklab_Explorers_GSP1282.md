@@ -12,11 +12,11 @@
 - ### Copy & Run the Commands in Cloud Shell Terminal :
 
 ```
-curl -LO raw.githubusercontent.com/Titash-shil/Getting-Started-with-BigQuery-GIS-for-Data-Analysts-GSP866/refs/heads/main/qwiklab_explorers_gsp866.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Enabling-Sensitive-Data-Protection-Discovery-for-BigQuery-GSP1282/refs/heads/main/qwiklab_explorers_gsp1282.sh
 
-sudo chmod +x qwiklab_explorers_gsp866.sh
+sudo chmod +x qwiklab_explorers_gsp1282.sh
 
-./qwiklab_explorers_gsp866.sh
+./qwiklab_explorers_gsp1282.sh
 ```
 
 ---
